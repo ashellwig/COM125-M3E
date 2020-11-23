@@ -1,4 +1,4 @@
-$m2e_path = "C:\Users\hellw\OneDrive - Colorado Community College System\COM120\Module-2\M2E_Mars-Venus-Earth"
+$m2e_path = "C:\Users\hellw\OneDrive - Colorado Community College System\COM125\Module-3\M3E_Do-You-Hear-What-I-Hear"
 
 Write-Host 'Cleaning LaTeX Project'
 Remove-Item "$m2e_path\*_temp.tex"
