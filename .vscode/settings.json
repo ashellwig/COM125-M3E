@@ -94,6 +94,10 @@
             "env": {}
         }
     ],
+    // PowerShell
+    "powershell.integratedConsole.showOnStartup": false,
+    /* General Editor */
+    // Files
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -111,6 +115,7 @@
         "*.synctex.gz": true,
         "*.lol": true
     },
+    // Spell Checker
     "cSpell.words": [
         "headlee",
         "schellenberg",
